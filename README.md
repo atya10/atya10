@@ -1,6 +1,6 @@
 <h1 align="center">Welcome</h1>
 <div align="center"> <img src="https://github.com/atya10/atya10/blob/main/IMG_0526.PNG"> </div>
-<h3 align="center">I'm 20 years old from Palestine - Gaza Strip</h3>
+<h3 align="center">I'm 20 Years Old From Palestine - Gaza Strip</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/atya10/atya10/blob/main/1674617947228.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atya10&label=Profile%20views&color=0e75b6&style=flat" alt="atya10" /> </p>
