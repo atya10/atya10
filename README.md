@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atya Jar</h1>
-<div align="center"> <img src="idcard3.PNG"> </div>
+<div align="center"> <img src="https://github.com/atya10/atya10/blob/main/idcard3.PNG"> </div>
 <h3 align="center">Software Engineering from Palestine</h3>
 <img align="right" alt="Coding" width="400" src="web_developing.gif">
 
