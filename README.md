@@ -51,4 +51,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=atya10&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 📈 My GitHub Contributions
-![Snake animation](github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/atya10/atya10/blob/main/github-contribution-grid-snake.svg)
