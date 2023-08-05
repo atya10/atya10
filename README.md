@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atya10&label=Profile%20views&color=0e75b6&style=flat" alt="atya10" /> </p>
 
-<p align="left"> <a href="https://twitter.com/atyajar" target="blank"><img src="https://img.shields.io/twitter/follow/atyajar?logo=twitter&style=for-the-badge" alt="atyajar" /></a> </p>
-
 - 👨‍🎓 I am currently studying at [Al-Azhar University](https://www.alazhar.edu.ps/eng/)
 
 - 🌱 I’m currently learning **Laravel & Flutter**
