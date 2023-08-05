@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.instagram.com/atya.10/](https://www.instagram.com/atya.10/)
 
-- ⚡ Fun fact **I live in Gaza**
+- ⚡ Fun fact **I Love My Job & Do It With Great Pleasure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
