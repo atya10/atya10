@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atya Jar</h1>
 <div align="center"> <img src="IMG_0523.PNG"> </div>
 <h3 align="center">Software Engineering from Palestine</h3>
+<img align="right" alt="Coding" width="400" src="web_developing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atya10&label=Profile%20views&color=0e75b6&style=flat" alt="atya10" /> </p>
 
