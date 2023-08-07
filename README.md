@@ -1,5 +1,5 @@
 <h1 align="center">Welcome</h1>
-<div align="center"> <img src="https://github.com/atya10/atya10/blob/main/IMG_0526.PNG"> </div>
+<div align="center"> <img src="https://github.com/atya10/atya10/blob/main/IMG_0546.PNG"> </div>
 <h3 align="center">I'm 20 Years Old From Palestine - Gaza Strip</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/atya10/atya10/blob/main/1674617947228.gif">
 
