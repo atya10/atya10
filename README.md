@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **atya.tee37@gmail.com**
 
-- 📄 Know about my experiences [https://www.instagram.com/atya.10/](https://www.instagram.com/atya.10/)
+- 📄 Know about my experiences  [https://www.instagram.com/atya.10/](https://www.instagram.com/atya.10/)
 
 - ⚡ Fun fact **I Love My Job & Do It With Great Pleasure**
 
